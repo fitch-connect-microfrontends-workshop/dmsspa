@@ -1,3 +1,3 @@
 import { setPublicPath } from 'systemjs-webpack-interop';
 
-setPublicPath('dmsspa', 2);
+setPublicPath('@fc/dmsspa', 2);
