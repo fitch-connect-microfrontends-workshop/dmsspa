@@ -1,3 +1,3 @@
 import { setPublicPath } from 'systemjs-webpack-interop';
 
-setPublicPath('gitscratch', 2);
+setPublicPath('dmsspa', 2);
